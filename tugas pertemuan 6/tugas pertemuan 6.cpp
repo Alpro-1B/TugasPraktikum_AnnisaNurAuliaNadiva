@@ -16,7 +16,7 @@ int main() {
     //membaca elemen array
     for (i = 0; i < jumlahbil; i++)
     {
-        cout << "Indeks bilangan ke-" << i << "= ";
+        cout << "Indeks bilangan ke-[" << i << "]= ";
         cin >> nilai[i];
     }
 
